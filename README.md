@@ -1,2 +1,3 @@
-# dio-desafio-github
-Desafio de projeto bootcamp fullstack eduzz
+# Desafio de Projeto da DIO GIT/GITHUB
+
+## Projeto para por em pratica os comandos estudados sobre GIT.
