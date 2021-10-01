@@ -1,0 +1,12 @@
+# Alguns Principais Comandos 💾
+
+- git init → **Inicializa o repositório do GIT na pasta alocada.**
+- git add . → **Adiciona todos os arquivos que está na pasta, na area de stage, ou seja, esprando para ser commitado **
+- ls -a → **Flag (-a) para ver pastas ocultas.**
+- mv → **Move um arquivo para um pasta e etc ex: (mv receitas.txt ./nomepasta) SEM PARENTESES.**
+- git config —global —unset [user.email](http://user.email)  → **Retira o user.email que foi usado para ser o autor do commit feito.**
+- git config —global —unset [user.name](http://user.name) → **Retira o [user.name](http://user.name) que foi usado para autenticar com o GitHub.**
+- git config —global [user.](http://user.name)email → **Comando para adicionar o seu user.email, recomendado usar o mesmo email do GitHub.**
+- git config —global [user.name](http://user.name) → **Comando para adicionar o seu [user.name](http://user.name), recomendado usar o mesmo name do GitHub.**
+- git remote add origin: aquiVaiAOrigemRemota → **Esse comando faz com que todas as modificações que está no nosso repositório local, seja setado para um repositório remoto.**
+- git push origin master → **Esse comando vai empurrar/push as nossas modificações que está no nosso repositorio local para o repositorio remoto setado.**
